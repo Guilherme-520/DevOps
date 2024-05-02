@@ -14,3 +14,40 @@
     <p>um dia</p>
     </li>
 </ul>
+
+<h1>Comandos que conheço</h1>
+<ul>
+    <li>
+     <p>git add *</p>
+    </li>
+    <li>
+        <p>git config --global user.name</p>
+    </li>
+     <li>
+        <p>git config --global user.email</p>
+    </li>
+    <li>
+        <p>git commit -m "seu comentario"</p>
+    </li>
+     <li>
+        <p>git branch -M sua_branch </p>
+    </li>
+     <li>
+        <p>git remote add origin sua_url.com</p>
+    </li>
+     <li>
+        <p>git push -u origin sua_branch</p>
+    </li>
+     <li>
+        <p>git pull sua_branch</p>
+    </li>
+     <li>
+        <p>git merge *</p>
+    </li>
+     <li>
+        <p>git checkout sua_branch</p>
+    </li>
+     <li>
+        <p>git remote remove</p>
+    </li>
+</ul>
